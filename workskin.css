@@ -1,0 +1,43 @@
+#workskin hr {
+	border: none;
+	border-top: 3px double #333;
+	color: #333;
+	overflow: visible;
+	text-align: center;
+	height: 0px;
+}
+
+#workskin .dateheading {
+	border: none;
+	font-size: 95%;
+}
+
+#workskin .dateheading::before {
+	content: "● 〈   ";
+}
+
+#workskin .dateheading::after {
+	content: "   〉 ●";
+}
+
+#workskin .email {
+	border: 1px solid black;
+	padding: 2pc;
+}
+
+#workskin .link {
+	text-decoration: underline;
+	color: #167ac8;
+}
+
+#workskin .patriciapoem {
+	background-color: #0c1ca1;
+	/* AO3 doesn't allow for making this look nicer, fun times */
+	background-image: linear-gradient(transparent 30%,#4f6d6b 50%,transparent 70%), radial-gradient(transparent 5%,#167ac8 30%,transparent 45%,#3668dc 75%,#262434 80%,transparent 90%), linear-gradient(to right,transparent 3%,#af1e67 20%,#29b671 45%,#9a11a5 55%,#234288 70%,transparent 95%);
+	background-size: 100% 150%;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+}
