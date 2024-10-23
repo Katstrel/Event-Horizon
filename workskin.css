@@ -2,7 +2,7 @@
 #workskin div.preface .title,
 #workskin div.preface .byline,
 #workskin div.preface .byline a {
-  font-family: 'Castoro Titling', 'Felix Titling', titling;
+  font-family: 'Castoro Titling', 'Felix Titling', 'Brush Script MT', 'Garamond', serif;
 }
 
 #workskin hr {
@@ -13,7 +13,7 @@
 /* Formatting will want to put each comma as a new line for properties. AO3 will not acceot that. Make sure each property (thing:) is one line total. Gradient modified from https://archiveofourown.org/works/58623079/chapters/149366104 */
 #workskin .patriciapoem {
 	background-color: #808080;
-	background-image: radial-gradient(circle at 50% 35%, #f1bd00,  #de7d00, #bf3900, #920d03, #611405);
+	background-image: radial-gradient(circle at 50% 35%, #e2a600,  #de7d00, #bf3900, #920d03, #611405);
 	background-size: 100% 150%;
 	background-clip: text;
 	-webkit-background-clip: text;

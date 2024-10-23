@@ -20,5 +20,6 @@ Look at template.html and workskin.css for comments. The actual work html files 
 ### Resources
 [Visual Studio Code](https://code.visualstudio.com/) is the code editor I use.  
 [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) provides the ability to tab complete elements from the CSS stylesheet (workskin).  
-[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) allows for previewing the html document within the editor.  
+[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) allows for previewing the HTML document within the editor.  
+[W3 Schools](https://www.w3schools.com/) has a lot of information on HTML and CSS.  
 [CSS Guides](https://archiveofourown.org/series/4168489) has a lot of cool effects to look into.
