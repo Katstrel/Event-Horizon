@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Template</title>
+
+		<!-- Reversi is included since its the most used skin besides default. I'll enable it and disable it while checking new css, especially colored text and effects. Readability is the largest factor to consider for coloring text. The ../ refers to folder "above" current folder. If workskin is in the same folder as the html files, use ./ -->
+        <link rel="stylesheet" href="../reversi.css">
+        <link rel="stylesheet" href="../workskin.css">
+    </head>
+
+	<!-- id="workskin" is needed to properly call the #workskin elements in the css file, AO3 needs workskins to have that anyway. When exporting to AO3 only copy inside the body tag. Do not copy the body tag itself. -->
+    <body id="workskin">
+
+        <!-- This div is only seen and used in the preview while I work on cleaning up the text. I never copy this to AO3. -->
+        <div class="preface" align="center">
+            <img
+                src="https://64.media.tumblr.com/b1618a42885060a66dec6d748ed73f59/4a3a48ff61ee532d-b4/s2048x3072/767807d3f339afc522307a77df7b021bd7353116.pnj"
+                alt="The Event Horizon"
+                height="100"
+            />
+            <!-- The preface.title is the actual chapter title element AO3 includes automatically. -->
+            <h1 class="title">Chapter Title</h1>
+        </div>
+
+        <p>Some wonderful text.</p>
+
+	</body>
+</html>

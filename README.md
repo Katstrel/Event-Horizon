@@ -1,7 +1,5 @@
-# The Event Horizon
-https://archiveofourown.org/series/4282051
+# [The Event Horizon](https://archiveofourown.org/series/4282051)
 
-## Summary
 ***There is no going back.***
 
 Every second lived is another horizon crossed.  
@@ -10,25 +8,17 @@ Every choice made has consequences.
 
 Accretion is the gradual growth, how it all began.  
 Shooting Stars are only just the beginning, a new start.   
-Equinox...  
+Aphelion...  
 
+## Getting Started
+So you're interested in styling your own works on AO3? That's exactly why I share the actual html files I fix up before posting my work. Feel free to look at how I did certain effects.
 
-## Author's Notes
-These are almost all the files I used and worked on while writing the Event Horizon series on Archive of Our Own. I thought it would be fun to show all the the background things and everything possibly thrown out while making the story. Feel free to browse through it all or just see the gradual growth I had while writing.
+Some of my comments are far from the actual terminology since I wasn't taught HTML and CSS but picked it up while wanting to create my own workskins and siteskins for AO3. I'm just trying to convey the idea of what's happening rather than any textbook terms.
 
-Before even starting to incorporate git in my workflow I had used:
-- Notion
-- Half Notion, Half Google Docs
-- Google Docs
-- VSCode for ensuring format was correct before posting
-- VSCode with git and GitHub
+Look at template.html and workskin.css for comments. The actual work html files rarely, if ever, have comments. Use those to figure out how I applied CSS within my chapters.
 
-I'll probably try swapping fully to using the repository when I have a real laptop since I like sitting in different places while I write. My desktop is great though.
-
-## Ideas
-So quick disclaimer that not all ideas are implemented in-universe as is written here. Some will have very similar to what was actually written because the notes here were just the draft form.
-
-## Inspirations
-Gotta admit, there are a lot of small ideas I know I must have stolen from other fics but I can not recall which ones!
-
-Although, I do admit that some writers were huge inspirations. If you haven't read anything from GentryChild go do so! If I remember correctly I might have stolen the Blink quirk from them. I just loved the idea so much.
+### Resources
+[Visual Studio Code](https://code.visualstudio.com/) is the code editor I use.  
+[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) provides the ability to tab complete elements from the CSS stylesheet (workskin).  
+[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) allows for previewing the html document within the editor.  
+[CSS Guides](https://archiveofourown.org/series/4168489) has a lot of cool effects to look into.
